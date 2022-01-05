@@ -1,0 +1,36 @@
+2022-01-05 20:44:05,460:INFO:Sum (1, 2.7, 3, 5): 11.7
+2022-01-05 20:44:05,461:INFO:Square root of 16: 4.0
+2022-01-05 20:44:05,462:INFO:Number of symbols in Labas vakaras!: 14
+2022-01-05 20:44:05,463:INFO:200 / 15: 13.333333333333334
+2022-01-05 20:44:50,987:INFO:Sum (1, 2.7, 3, 5) = 11.7
+2022-01-05 20:44:50,988:INFO:Square root of 16 = 4.0
+2022-01-05 20:44:50,988:INFO:Number of symbols in Labas vakaras!: 14
+2022-01-05 20:44:50,988:INFO:200 / 15 = 13.333333333333334
+2022-01-05 20:46:46,814:INFO:Sum (1, 2.7, 3, 5) = 11.7
+2022-01-05 20:46:46,814:ERROR:text
+2022-01-05 20:48:14,550:INFO:Sum (1, 2.7, 3, 5) = 11.7
+2022-01-05 20:48:14,551:ERROR:Got string value instead of integer
+2022-01-05 20:49:12,636:INFO:Sum (1, 2.7, 3, 5) = 11.7
+2022-01-05 20:49:12,639:ERROR:expected int got <class 'str'>
+2022-01-05 20:53:17,935:INFO:Sum (1, 2.7, 3, 5) = 11.7
+2022-01-05 20:53:17,936:ERROR:expected int got <class 'str'>
+2022-01-05 20:54:16,338:INFO:Sum (1, 2.7, 3, 5) = 11.7
+2022-01-05 20:54:16,339:ERROR:expected int got <class 'str'>
+2022-01-05 20:54:16,340:INFO:Number of symbols in Labas vakaras!: 14
+2022-01-05 20:54:16,340:ERROR:Division by 0
+2022-01-05 20:56:34,057:INFO:Sum (1, 2.7, 3, 5) = 11.7
+2022-01-05 20:56:34,057:ERROR:expected int got <class 'str'>
+2022-01-05 20:56:34,058:INFO:Number of symbols in Labas vakaras!: 14
+2022-01-05 20:56:34,058:ERROR:Division by 0
+2022-01-05 20:58:00,218:INFO:Sum (1, 2.7, 3, 5) = 11.7
+2022-01-05 20:58:00,218:ERROR:expected int got <class 'str'>
+2022-01-05 20:58:00,218:INFO:Number of symbols in Labas vakaras!: 14
+2022-01-05 20:58:00,218:ERROR:Division by 0
+2022-01-05 20:58:19,023:INFO:Sum (1, 2.7, 3, 5) = 11.7
+2022-01-05 20:58:19,023:ERROR:expected int got <class 'str'>
+2022-01-05 20:58:19,023:INFO:Number of symbols in Labas vakaras!: 14
+2022-01-05 20:58:19,023:ERROR:Division by 0
+2022-01-05 21:11:45,219 - INFO - Sum (1, 2.7, 3, 5) = 11.7
+2022-01-05 21:11:45,220 - ERROR - expected int got <class 'str'>
+2022-01-05 21:11:45,220 - INFO - Number of symbols in Labas vakaras!: 14
+2022-01-05 21:11:45,220 - ERROR - Division by 0
