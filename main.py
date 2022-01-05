@@ -37,7 +37,8 @@ def get_division(x: Union[int, float], y: Union[int, float]) -> Optional:
         return result
 
 
-print(sum_arguments(1, 2.7, 3, 5))
-print(get_sqrt_root("labas"))
-print(get_number_of_chars("Labas vakaras!"))
-print(get_division(200, 0))
+if __name__ == "__main__":
+    print(sum_arguments(1, 2.7, 3, 5))
+    print(get_sqrt_root("labas"))
+    print(get_number_of_chars("Labas vakaras!"))
+    print(get_division(200, 0))
